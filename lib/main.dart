@@ -9,6 +9,6 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
         theme: ThemeData(primarySwatch: Colors.green), home: RandomWords());
 
-    //lol
+    //lollololo
   }
 }
